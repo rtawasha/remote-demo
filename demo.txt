@@ -1,1 +1,2 @@
 line 1 in demo file in master
+line 2 in demo file in master
